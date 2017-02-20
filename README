@@ -1,0 +1,3 @@
+##MongoDB深度剖析
+
+*本次的项目是一个安保系统，包括安卓与iOS版原本APP，一个后台CMS，其中我和另一个小伙伴Joker负责后台CMS的开发，改系统使用的技术为后台:Nodejs,express,mongodb,前端：anjularjs，bootstrap等前端框架。
